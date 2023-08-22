@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "446677927345",
+    "firebase_url": "https://rapickdriver-default-rtdb.firebaseio.com",
+    "project_id": "rapickdriver",
+    "storage_bucket": "rapickdriver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446677927345:android:eb29918f685e2b76d92990",
+        "android_client_info": {
+          "package_name": "com.android.rapick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446677927345-jqrovq8n5us20hai385ed4c7cngip8fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEJsz3M6_ClRQvL2zJWGDZ-6TdQ05lggs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446677927345-c02t254d57trpfrlcf7k6qsvsvuuuujp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
